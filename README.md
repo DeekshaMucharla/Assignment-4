@@ -6,6 +6,7 @@ Q2. Folder photo album
 
 Q3. Find three websites that does not implement Responsive Web Design. Provide their 
 link.
+
 Ans. Three websites that does not implement Responsive Web Design.
 A vital component of contemporary web development, responsive web design makes sure 
 that websites appear effectively across a variety of devices and screen sizes. Responsive 
